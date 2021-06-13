@@ -1,0 +1,26 @@
+<?php
+                  else {
+                     header("location:login_failed.php");
+                  }
+              ?>
+
+
+
+
+
+<?php
+    #$count=mysqli_num_rows($result);
+    #if($count==1){
+     # $_SESSION['myusername'] = $myusername;
+     # $_SESSION['mypassword'] = $mypassword;
+      #header("location:welcome.php");
+      #echo $count
+      #echo $submit_value;
+
+   # }
+    #else {
+     # header("location:login_failed.php"); 
+      #echo $count;
+
+   # }
+?>
